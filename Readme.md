@@ -4,4 +4,4 @@ This is a collection of scripts I rely on alot. Most started as one-liners and g
 
 ---
 
-That being said these come with no Warranty. Anything in this folder not covered by another license is written by me and covered by the Apache 2.0 License.
+That being said these come with no Warranty. Anything in this folder not covered by another license is written by me and covered by the [Apache 2.0 License](https://github.com/BenjaminHCCarr/tiny-scripts/blob/master/LICENSE.md).
