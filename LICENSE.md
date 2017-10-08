@@ -1,3 +1,8 @@
+Anything not covered in this folder by another license is written by me and covered by the Apache 2.0 License below
+
+---
+
+
                                  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
